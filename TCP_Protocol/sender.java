@@ -7,8 +7,7 @@ import java.util.Timer;
 import java.text.SimpleDateFormat;
 
 public class sender {
-	adfasdfasdf
-	asdfasdfadfafd
+
 	InetAddress rIP;
 	int packnum;
 	int rPort;
